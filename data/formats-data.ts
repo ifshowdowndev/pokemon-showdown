@@ -6428,4 +6428,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	kyogresceptile: {
+        	randomBattleMoves: ["waterspout", "hydropump", "icebeam", "gigadrain", "thunder"],
+        	randomBattleLevel: 100,
+        	randomDoubleBattleMoves: ["waterspout", "muddywater", "icebeam", "leafstorm", "thunder"],
+        	tier: "OU",
+        	doublesTier: "DOU",
+    },
 };

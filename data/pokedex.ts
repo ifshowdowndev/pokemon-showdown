@@ -16944,4 +16944,15 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	kyogresceptile: {
+		num: 10000,
+		name: "kyogresceptile",
+		types: ["Water", "Grass"],
+		baseStats: {hp: 90, atk: 90, def: 73, spa: 135, spd: 121, spe: 110},
+		abilities: {0: "Drizzle", 1: "Overgrow", H: "Unburden"},
+		heightm: 3.1,
+		weightkg: 202.1,
+		color: "Blue",
+		eggGroups: ["Monster", "Undiscovered"],
+	},
 };
